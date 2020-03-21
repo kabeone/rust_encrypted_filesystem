@@ -1,0 +1,2 @@
+cargo:rustc-cfg=std
+cargo:rustc-cfg=v01_deprecated_api
